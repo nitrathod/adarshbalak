@@ -24,6 +24,10 @@ hr{
     margin: auto;
 }
 
+.showcase-list{
+    padding: 1rem;
+}
+
 .link{
     box-sizing: border-box;
     text-decoration: none;
@@ -35,8 +39,9 @@ hr{
     border-radius: 0.5rem;
     color: white;
     display: block;
-    max-width: 130px;
-     margin: 1rem 1rem 1rem 0rem;
+    max-width: 118px;
+    text-align: center;
+    margin: 1rem 1rem 1rem 0rem;
 }
 
 .link-secondary{
@@ -44,12 +49,14 @@ hr{
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
     display: block;
-    max-width: 147px;
+    max-width: 126px;
+    text-align: center ;
     margin: 1rem 1rem 1rem 0rem;
 }
 
 .list-non-bullet{
     list-style: none;
+    padding-inline-start: 0px;
 }
 
 .list-item-inline{
