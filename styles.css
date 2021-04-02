@@ -34,6 +34,11 @@ hr{
     padding:0.5rem 1rem ;
 }
 
+.link .img{
+    width: 30px;
+    height: 30px;
+}
+
 .link-primary{
     background-color: var(--primary-color);
     border-radius: 0.5rem;
