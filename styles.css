@@ -4,6 +4,7 @@
   --primary-color: #0891b2;
   --off-white: #f3f4f6;
   --dark-gray: #71717a;
+  user-select: none;
 }
 
 body {
