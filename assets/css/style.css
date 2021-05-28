@@ -517,7 +517,7 @@ section {
 }
 
 .about .content ul {
-  list-style: none;
+  list-style: square;
   padding: 0;
 }
 
@@ -543,8 +543,8 @@ section {
 }
 
 .about .img{
-  height: 400px;
-  width: 400px;
+  height: 300px;
+  width: 250px;
 }
 
 /*--------------------------------------------------------------
