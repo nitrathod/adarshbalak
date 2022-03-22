@@ -698,6 +698,11 @@ section {
 /*--------------------------------------------------------------
 # project
 --------------------------------------------------------------*/
+
+.card {
+  height: 610px;
+}
+
 .project .project-item {
   margin-bottom: 30px;
 }
@@ -1309,6 +1314,9 @@ section {
 
 #footer .social-links {
   margin: 0 0 40px 0;
+  display: flex;
+  justify-content: center;
+  gap: 45px;
 }
 
 #footer .social-links a {
@@ -1324,6 +1332,7 @@ section {
   width: 36px;
   height: 36px;
   transition: 0.3s;
+  gap: 15px;
 }
 
 #footer .social-links a:hover {
